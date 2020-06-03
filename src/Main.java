@@ -4,5 +4,6 @@ public class Main {
         System.out.println("i\ncommitowania");
         System.out.println("A teraz operacje arytmetyczne:");
         System.out.println("2 + 2 = " + (2 + 2));
+        System.out.print("A teraz bez ostatniej pustej linii.");
     }
 }
